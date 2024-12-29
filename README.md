@@ -1,33 +1,37 @@
-Motorcycle Game and Simulation
+**Project: Motorcycle Racing Game and Simulation**
 
-This is a Python project that contains a motorcycle race game features and simulates motorcycle racing. 
-The game is based on the data of motorcycles available in India that were release between 2022-2023.
+**This Python project is a motorcycle racing game that also simulates the racing experience.**
 
+**Features**
 
-To see game motorcycles marketplace:
-To see the available motorcycles in the game marketplace, run the code in the 'beginning_market.ipynb' notebook.
+Race against other motorcycles based on real-world data of motorcycles available in India (2022-2023).
+Explore the game's motorcycle marketplace.
+Experience various game features (detailed in motor_game.ipynb).
+Simulate motorcycle races with customizable options (player's bike, starting cash, race entry fee, number of rounds).
 
+**Marketplace:**
 
+check out different bikes at marjetplace at jupyter notebook beginning_market.ipynb
 
-To experience game features:
-Run the code on motor_game.ipynb. This notebook contains explanations concerning the different game features.
+**Game Features:**
 
-
-
-To run the simulation:
-To run the simulation, open the 'simulation.ipynb' notebook and choose a player's bike, starting cash, race entry fee, 
-number of rounds, and then run the code. This notebook provides a detailed description of how to use the simulation.
-
+check out different game features explanations in jupyter notebook motor_game.ipynb
 
 
-Contributing
-Contributions are welcome! Please submit a pull request if you'd like to contribute code, documentation, or bug fixes.
+**Simulation:**
 
+Open simulation.ipynb in a Jupyter Notebook environment.
+Configure the simulation parameters (player's bike, starting cash, race entry fee, number of rounds).
+Run the code in the notebook.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+**Contributing**
 
+We welcome contributions! Please submit a pull request for code, documentation, or bug fixes.
 
-Credits
-Data: motorcycles available in India released between 2022-2023.
-https://www.kaggle.com/datasets/yashwanthkumarmn/motorcycles-in-india
+**License**
+
+This project is licensed under the MIT License (see LICENSE file for details).
+
+**Credits**
+
+Motorcycle data (2022-2023): https://www.kaggle.com/datasets/yashwanthkumarmn/motorcycles-in-india
