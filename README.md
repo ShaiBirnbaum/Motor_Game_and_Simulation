@@ -2,21 +2,18 @@
 
 **This Python project is a motorcycle racing game that also simulates the racing experience.**
 
-**Features**
+**Game Features**
 
 Race against other motorcycles based on real-world data of motorcycles available in India (2022-2023).
 Explore the game's motorcycle marketplace.
 Experience various game features (detailed in motor_game.ipynb).
 Simulate motorcycle races with customizable options (player's bike, starting cash, race entry fee, number of rounds).
 
+check out different bikes at marjetplace at jupyter notebook beginning_market.ipynb
+
 **Marketplace:**
 
 check out different bikes at marjetplace at jupyter notebook beginning_market.ipynb
-
-**Game Features:**
-
-check out different game features explanations in jupyter notebook motor_game.ipynb
-
 
 **Simulation:**
 
