@@ -11,11 +11,11 @@ Simulate motorcycle races with customizable options (player's bike, starting cas
 
 check out more game features explanations at jupyter notebook motor_game.ipynb
 
-**Marketplace:**
+**Marketplace**
 
 check out different bikes at marketplace at jupyter notebook beginning_market.ipynb
 
-**Simulation:**
+**Simulation**
 
 Open simulation.ipynb in a Jupyter Notebook environment.
 Configure the simulation parameters (player's bike, starting cash, race entry fee, number of rounds).
