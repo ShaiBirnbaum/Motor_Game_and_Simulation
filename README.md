@@ -9,11 +9,11 @@ Explore the game's motorcycle marketplace.
 Experience various game features (detailed in motor_game.ipynb).
 Simulate motorcycle races with customizable options (player's bike, starting cash, race entry fee, number of rounds).
 
-check out different bikes at marjetplace at jupyter notebook beginning_market.ipynb
+check out more game features explanations at jupyter notebook motor_game.ipynb
 
 **Marketplace:**
 
-check out different bikes at marjetplace at jupyter notebook beginning_market.ipynb
+check out different bikes at marketplace at jupyter notebook beginning_market.ipynb
 
 **Simulation:**
 
